@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+margin_left = 71.5986
+margin_top = 54.415
+margin_right = 129.599
+margin_bottom = 74.415
+text = "Level 1"
