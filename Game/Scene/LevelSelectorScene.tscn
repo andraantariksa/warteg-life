@@ -1,4 +1,6 @@
-[gd_scene format=2]
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/MainMenu/Button.gd" type="Script" id=1]
 
 [node name="Node2D" type="Node2D"]
 
@@ -8,3 +10,4 @@ margin_top = 54.415
 margin_right = 129.599
 margin_bottom = 74.415
 text = "Level 1"
+script = ExtResource( 1 )
